@@ -1,6 +1,6 @@
-public class Main {
+public class Exercicio1 {
     public static void main(String[] args) {
-        System.out.println("Nome: João Silva");
+        System.out.println("Nome: Maria");
         System.out.println("Curso: Ciência da Computação");
     }
 }
